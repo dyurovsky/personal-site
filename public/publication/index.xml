@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Dan Yurovsky</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>A communicative approach to early word learning</title>
+      <link>/publication/new-ideas/new-ideas/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/new-ideas/new-ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preschoolers flexibly adapt to linguistic input in a noisy channel</title>
+      <link>/publication/noisy-kids/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/noisy-kids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrative account of constraints on cross-situational learning</title>
+      <link>/publication/integrative/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/integrative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical word learning at scale: the baby&#39;s view is better</title>
+      <link>/publication/headcam/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/headcam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative linking hypotheses for infant eye movements</title>
+      <link>/publication/linking/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/linking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

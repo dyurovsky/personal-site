@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&amp; Smith, L. B. | Dan Yurovsky</title>
+    <link>/authors/smith-l.-b./</link>
+      <atom:link href="/authors/smith-l.-b./index.xml" rel="self" type="application/rss+xml" />
+    <description>&amp; Smith, L. B.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>&amp; Smith, L. B.</title>
+      <link>/authors/smith-l.-b./</link>
+    </image>
+    
+    <item>
+      <title>Statistical word learning at scale: the baby&#39;s view is better</title>
+      <link>/publication/headcam/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/headcam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

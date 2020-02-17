@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Dan Yurovsky</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am interested in how children’s rapid language acquisition emerges from the interaction of their learning mechanisms and the structure of their learning environments. My work combines behavioral and computational analysis of infants’, children’s, and adults’ learning mechanisms with corpus analyses of the language children hear and the world they see. Come visit me at the 
+&lt;a href=&#34;https://callab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Communication and Learning Lab&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am an active contributor to 
+&lt;a href=&#34;https://wordbank.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wordbank&lt;/a&gt;, and 
+&lt;a href=&#34;http://childes-db.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;childes-db&lt;/a&gt;, open access tools for big data developmental psychology. I’ve also helped to develop some R packages you might find useful. Check out 
+&lt;a href=&#34;https://github.com/langcog/tidyboot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyboot&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/langcog/wordbankr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wordbankr&lt;/a&gt;, and 
+&lt;a href=&#34;https://github.com/langcog/childesr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;childesr&lt;/a&gt;. My lab is also a contributor to the 
+&lt;a href=&#34;https://manybabies.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ManyBabies project&lt;/a&gt; , and we are enthusiastic about reproducibility and open science more broadly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yurovsky, D.</title>
+      <link>/authors/yurovsky-d./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yurovsky-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&amp; Frank, M. C.</title>
+      <link>/authors/frank-m.-c./</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/frank-m.-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case, S.</title>
+      <link>/authors/case-s./</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/case-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&amp; Smith, L. B.</title>
+      <link>/authors/smith-l.-b./</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/smith-l.-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu, C.</title>
+      <link>/authors/yu-c./</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/yu-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&amp; Wu, R.</title>
+      <link>/authors/wu-r./</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/wu-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidaka, S.</title>
+      <link>/authors/hidaka-s./</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/hidaka-s./</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

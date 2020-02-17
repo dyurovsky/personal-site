@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Callab"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#d55127"
+primary_light = "#e77450"
+primary_dark = "#892a0b"
+
+# Menu
+menu_primary = "#d55127"
+menu_text = "#fff"
+menu_text_active = "#efa221"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "#fffcd8"

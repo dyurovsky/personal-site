@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&amp; Frank, M. C. | Dan Yurovsky</title>
+    <link>/authors/frank-m.-c./</link>
+      <atom:link href="/authors/frank-m.-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>&amp; Frank, M. C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>&amp; Frank, M. C.</title>
+      <link>/authors/frank-m.-c./</link>
+    </image>
+    
+    <item>
+      <title>Preschoolers flexibly adapt to linguistic input in a noisy channel</title>
+      <link>/publication/noisy-kids/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/noisy-kids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrative account of constraints on cross-situational learning</title>
+      <link>/publication/integrative/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/integrative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

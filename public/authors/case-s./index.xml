@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case, S. | Dan Yurovsky</title>
+    <link>/authors/case-s./</link>
+      <atom:link href="/authors/case-s./index.xml" rel="self" type="application/rss+xml" />
+    <description>Case, S.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Case, S.</title>
+      <link>/authors/case-s./</link>
+    </image>
+    
+    <item>
+      <title>Preschoolers flexibly adapt to linguistic input in a noisy channel</title>
+      <link>/publication/noisy-kids/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/noisy-kids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
